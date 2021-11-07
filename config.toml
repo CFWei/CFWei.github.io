@@ -1,9 +1,0 @@
-baseURL = 'http://CFWei.github.io/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-
-theme="ananke"
-
-[permalinks]
-  posts = "/:year/:month/:title/"
-
